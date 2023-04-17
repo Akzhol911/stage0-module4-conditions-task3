@@ -11,7 +11,7 @@ public class AlphabeticCharacters {
             }
 
         }else{
-            System.out.println("Wrong alphabet");
+            System.out.println("wrong alphabet!");
         }
     }
 }
